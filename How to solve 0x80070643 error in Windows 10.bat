@@ -1,7 +1,8 @@
 @echo off
 
-:: Created by: Sagar Sharma
-:: Created on: January 1, 2024
+:: Created by: Shawn Brink
+:: Forked by: Sagar Sharma 
+:: Forked on: January 1, 2024
 
 :: Prompt to Run as administrator
 Set "Variable=0" & if exist "%temp%\getadmin.vbs" del "%temp%\getadmin.vbs"
